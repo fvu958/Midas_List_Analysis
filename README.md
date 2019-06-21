@@ -1,3 +1,1 @@
-Side Projects
-
-Venture U
+The Midas List Analysis is a solo project I pursued for VU Venture Partners in which I analyze information on the top venture captialists. The data was scraped from Forbes' Midas List from 2016 - 2018 using Beuaitufl Soup. 
